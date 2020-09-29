@@ -1,7 +1,7 @@
 {
   "name": "nodejs-cours",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,9 +19,6 @@
     "express": "^4.17.1",
     "form-data": "^3.0.0",
     "module_name": "^1.0.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.4"
   },
   "description": ""
 }
